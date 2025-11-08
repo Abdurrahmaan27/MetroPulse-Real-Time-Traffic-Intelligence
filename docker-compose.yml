@@ -6,6 +6,7 @@ services:
     ports:
       - "2181:2181"
 
+
   kafka:
     image: confluentinc/cp-kafka:7.5.1
     depends_on:
