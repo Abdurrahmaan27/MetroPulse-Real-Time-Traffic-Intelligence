@@ -49,6 +49,7 @@ air_raw = (
     .load()
 )
 
+
 # Parse JSON messages
 traffic = (
     traffic_raw
